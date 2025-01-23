@@ -1,0 +1,690 @@
+[
+  {
+    "title": "Київ",
+    "cp": "Київ",
+    "items": [
+      {
+        "order": 1,
+        "title": "СТО Victory Cars",
+        "_id": 36524,
+        "city": "Київ",
+        "address": "вулиця Куренівська, 21, Київ",
+        "contact": "(050) 537-37-29",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=50.49489548,0,30.47170722"
+      },
+      {
+        "order": 2,
+        "title": "Магазин автотоварів AutoDocs",
+        "_id": 13172,
+        "city": "Київ",
+        "address": "вулиця Тепловозна, 18Д, Київ",
+        "contact": "(096) 632-80-63",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=50.41996332,0,30.61662474"
+      },
+      {
+        "order": 24,
+        "title": "Інтернет магазин CartelAvto",
+        "_id": 19382,
+        "city": "Київ",
+        "address": "вулиця Олекси Довбуша, 32, Київ",
+        "contact": "(093) 701-94-35",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=50.447049429505284,30.6570598"
+      },
+      {
+        "order": 27,
+        "title": "Автомагазин \"Автошара\"",
+        "_id": 24745,
+        "city": "Київ",
+        "address": "Кільцева дорога, 10, Київ",
+        "contact": "(097) 791-28-86",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=50.388082,30.428385"
+      },
+           {
+        "order": 30,
+        "title": "Автомагазин \" АВТОВСЕ\"",
+        "_id": 10165,
+        "city": "Київ",
+        "address": "вулиця Новомостицька, 25, Київ",
+        "contact": "(096) 835-67-10",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=50.49943333,30.43610333"
+      }
+    ],
+    "_id": 1050108011111074
+  },
+  {
+    "title": "Київська область",
+    "cp": "Київ1",
+    "items": [
+      {
+        "order": 26,
+        "title": "Автомагазин «АвтоЕДтранс»",
+        "_id": 39797,
+        "city": "Київ1",
+        "address": "вулиця Соборна, 9, Ірпінь, Київська область",
+        "contact": "(050) 759-70-29",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=50.50623696,30.24360696"
+      },
+      {
+        "order": 28,
+        "title": "Автомагазин Auto Market",
+        "_id": 38729,
+        "city": "Київ1",
+        "address": "вулиця Кооперативна 4, Кагарлик, Київська область",
+        "contact": "(063) 514-34-28",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.86543037,30.8288663"
+      },
+      {
+        "order": 31,
+        "title": "Автомагазин \"VSavtomarket\"",
+        "_id": 40895,
+        "city": "Київ1",
+        "address": "вулиця Свято-Покровська, 346а, Гостомель, Київська область",
+        "contact": "(097) 232-00-22",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=50.59947575,30.25685941"
+      },
+      {
+        "order": 55,
+        "title": "Автомагазин",
+        "_id": 45107,
+        "city": "Київ1",
+        "address": "вулиця Київська, 155, смт. Глеваха, Київська область",
+        "contact": "(099) 942-03-71",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=50.27987806,30.33708544"
+      },
+      {
+        "order": 63,
+        "title": "Автомагазин",
+        "_id": 45129,
+        "city": "Київ1",
+        "address": "вулиця Брандта, 67, Фастів, Київська область",
+        "contact": "(066) 658-06-99",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=50.07779963304245,29.923186497125865"
+      }
+    ],
+    "_id": 1050108011111074000
+  },
+  {
+    "title": "Вінницька область",
+    "cp": "Вінниця",
+    "items": [
+      {
+        "order": 12,
+        "title": "Автомагазин Fix Car vn",
+        "_id": 36224,
+        "city": "Вінниця",
+        "address": "вулиця Київська, 12Б, Вінниця",
+        "contact": "(096) 900-51-55",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.23686676,28.48225665"
+      },
+      {
+        "order": 40,
+        "title": "Автомагазин \"Автосвіт\"",
+        "_id": 25185,
+        "city": "Вінниця",
+        "address": "вулиця Князів Коріатовичів, 145, Вінниця",
+        "contact": "(068) 142-02-84",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.2246317484,28.460165109201"
+      },
+      {
+        "order": 90,
+        "title": "Автомагазин",
+        "_id": 45670,
+        "city": "Вінниця",
+        "address": "вулиця Молодіжна, 10, Вороновиця, Вінницька область",
+        "contact": "(063) 301-03-25",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.11038008,28.70105697"
+      },
+      {
+        "order": 91,
+        "title": "Автомагазин Auto.Detali.UA",
+        "_id": 9991,
+        "city": "Вінниця",
+        "address": "Люблінський провулок, 1 А, Вінниця",
+        "contact": "(093) 770-71-94",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.22459179675526,28.472752067701826"
+      }
+    ],
+    "_id": 1042111010851085000
+  },
+  {
+    "title": "Дніпропетровська область",
+    "cp": "Дніпро",
+    "items": [
+      {
+        "order": 14,
+        "title": "Автомагазин AvtoLiga",
+        "_id": 10503,
+        "city": "Дніпро",
+        "address": "вулиця Республіканська, 40, Кам'янське, Дніпропетровська область",
+        "contact": "(067) 263-81-80\n(099) 928-60-07",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=48.50520573,34.61759941"
+      },
+      {
+        "order": 20,
+        "title": "Автомагазин \"AsiaAuto360\"",
+        "_id": 2591,
+        "city": "Дніпро",
+        "address": "просп. Лесі Українки, 24, Дніпро",
+        "contact": "(0562) 360 111",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=48.46876611192376,35.01609063388225"
+      },
+      {
+        "order": 21,
+        "title": "Автомагазин \"Asia Auto\"",
+        "_id": 21461,
+        "city": "Дніпро",
+        "address": "проспект Слобожанський, 95, Дніпро",
+        "contact": "(0562) 360 222",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=48.514173,35.077635"
+      },
+      {
+        "order": 44,
+        "title": "Автомагазин \"OPEL\"",
+        "_id": 11105,
+        "city": "Дніпро",
+        "address": "вулиця Січових Стрільців, 12, Дніпро",
+        "contact": "(050) 451-80-30",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=48.4595,35.045158"
+      },
+      {
+        "order": 57,
+        "title": "Автомагазин \"ПарижАвто\"",
+        "_id": 39308,
+        "city": "Дніпро",
+        "address": "проспект Богдана Хмельницького, 1, Дніпро",
+        "contact": "(097) 508-63-24",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=48.447504,35.029312"
+      },
+      {
+        "order": 58,
+        "title": "Автомагазин \"Гараж 47\"",
+        "_id": 37353,
+        "city": "Дніпро",
+        "address": "проспект Богдана Хмельницького, 47, Дніпро",
+        "contact": "(096) 004-57-28",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=48.42366786,35.01114653"
+      },
+      {
+        "order": 59,
+        "title": "Запчастини із Кореї",
+        "_id": 9985,
+        "city": "Дніпро",
+        "address": "вулиця Короленка, 39, Дніпро",
+        "contact": "(067) 972-23-38",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=48.458152,35.036451"
+      }
+    ],
+    "_id": 1044108511101087100
+  },
+  {
+    "title": "Житомирська область",
+    "cp": "Житомир",
+    "items": [
+      {
+        "order": 22,
+        "title": "Автомагазин \"Luxor\"",
+        "_id": 9322,
+        "city": "Житомир",
+        "address": "проспект Незалежності, 55А, Житомир",
+        "contact": "(067) 409-13-09",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=50.27384998716858,28.67454830763746"
+      },
+      {
+        "order": 23,
+        "title": "Автомагазин \"Auto Talisman Family\"",
+        "_id": 45051,
+        "city": "Житомир",
+        "address": "вулиця  Жуйка, 3, Житомир",
+        "contact": "(067) 111-15-35",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=50.242599175696796,28.687576688155044"
+      },
+      {
+        "order": 50,
+        "title": "Автомагазин \"Автомаркет\"",
+        "_id": 23431,
+        "city": "Житомир",
+        "address": "провулок Південний, 15, Бердичів, 2, Житомирська область",
+        "contact": "(096) 745-93-41",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.891808,28.581849"
+      }
+    ],
+    "_id": 1046108010901086100
+  },
+  {
+    "title": "Запорізька область",
+    "cp": "Запоріжжя",
+    "items": [
+      {
+        "order": 41,
+        "title": "Автомагазин \"Автозапчастини\"",
+        "_id": 24002,
+        "city": "Запоріжжя",
+        "address": "вулиця Європейська, 9, Запоріжжя",
+        "contact": "(067) 611-14-41",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=47.77874534,35.2179375"
+      },
+      {
+        "order": 54,
+        "title": "Автомагазин Avtoritet",
+        "_id": 31321,
+        "city": "Запоріжжя",
+        "address": "вулиця Хакаська, 1, Запоріжжя",
+        "contact": "(063) 936-97-23",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=47.88478388,35.02384326"
+      },
+      {
+        "order": 61,
+        "title": "DNK AUTO",
+        "_id": 28312,
+        "city": "Запоріжжя",
+        "address": "вулиця Шкільна, 8, Запоріжжя",
+        "contact": "(066) 012-18-71",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=47.82607218,0,35.1582671"
+      }
+    ],
+    "_id": 1047107210871086100
+  },
+  {
+    "title": "Івано-Франківська область",
+    "cp": "Івано-Франківськ",
+    "items": [
+      {
+        "order": 38,
+        "title": "Автомагазин \"Вавілот\"",
+        "_id": 35973,
+        "city": "Івано-Франківськ",
+        "address": "Європейська площа, 3, Івано-Франківськ",
+        "contact": "(097) 643-46-53",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=48.9058715,24.71462209"
+      },
+      {
+        "order": 39,
+        "title": "Автомагазин \"Авто Центр-ІФ\"",
+        "_id": 31646,
+        "city": "Івано-Франківськ",
+        "address": "вулиця В. Симоненка, 31, Івано-Франківськ",
+        "contact": "(099) 092-61-09",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=48.93784995,24.75256206"
+      },
+      {
+        "order": 42,
+        "title": "Автомагазин \"БТВ-Авто\"",
+        "_id": 19615,
+        "city": "Івано-Франківськ",
+        "address": "вулиця Василіянок, 30, Івано-Франківськ",
+        "contact": "(050) 166-06-10",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=48.9281097,24.71474639"
+      },
+      {
+        "order": 43,
+        "title": "Автомагазин",
+        "_id": 32317,
+        "city": "Івано-Франківськ",
+        "address": "вулиця Тернопільська, 22, село Угринів, Івано-Франківська область",
+        "contact": "(097) 573-79-27",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=48.95202149,24.70014687"
+      }
+    ],
+    "_id": 1030107410721085000
+  },
+  {
+    "title": "Кіровоградська область",
+    "cp": "Кропивницький",
+    "items": [
+      {
+        "order": 64,
+        "title": "Магазин \"MAX Avto\"",
+        "_id": 28574,
+        "city": "Кропивницький",
+        "address": "вулиця Кропивницького,184, Кропивницький, Кіровоградська область",
+        "contact": "(066) 408-99-23",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=48.49747102656306,32.268944056485495"
+      }
+    ],
+    "_id": 1050111010881086100
+  },
+  {
+    "title": "Львівська область",
+    "cp": "Львів",
+    "items": [
+      {
+        "order": 11,
+        "title": "Автомагазин BORSCH АВТОЗАПЧАСТИНИ",
+        "_id": 34404,
+        "city": "Львів",
+        "address": "вулиця Трускавецька, 52, Львів",
+        "contact": "(097) 660-59-27",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.80027954,23.98477604"
+      },
+      {
+        "order": 45,
+        "title": "АВТОЦЕНТР ЕРА",
+        "_id": 12713,
+        "city": "Львів",
+        "address": "вулиця Липинського, 36, Львів",
+        "contact": "(067) 676-37-27",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.86282625,24.03199039"
+      }
+    ],
+    "_id": 1051110010741110100
+  },
+  {
+    "title": "Миколаївська область",
+    "cp": "Миколаїв",
+    "items": [
+      {
+        "order": 3,
+        "title": "Автомагазин запчасти Сателлит",
+        "_id": 1662,
+        "city": "Миколаїв",
+        "address": "вулиця Чкалова, 210, Миколаїв",
+        "contact": "(097) 343-30-85",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=46.951522,32.028232"
+      },
+      {
+        "order": 4,
+        "title": "Магазин автотоварів \"Імперія авто\"",
+        "_id": 31690,
+        "city": "Миколаїв",
+        "address": "вулиця Дружби народів, 14, Южноукраїнськ, Миколаївська область",
+        "contact": "(067) 892-98-12",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=47.823815,31.185858"
+      },
+      {
+        "order": 13,
+        "title": "Автомагазин АВТОРИТЕТ",
+        "_id": 42973,
+        "city": "Миколаїв",
+        "address": "вулиця Пушкінська, 17А, Миколаїв",
+        "contact": "(067) 590-02-00",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=46.972475,31.984287"
+      },
+      {
+        "order": 37,
+        "title": "Студія автоелектрики Chip-Auto",
+        "_id": 40462,
+        "city": "Миколаїв",
+        "address": "вулиця Космонавтів, 88, Миколаїв",
+        "contact": "(093) 796-44-00",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=46.94656106,32.06023272"
+      }
+    ],
+    "_id": 1052108010821086100
+  },
+  {
+    "title": "Одеська область",
+    "cp": "Одеса",
+    "items": [
+      {
+        "order": 5,
+        "title": "Автомагазин DM Autoparts",
+        "_id": 31372,
+        "city": "Одеса",
+        "address": "вулиця Миколи Антипова 10,  смт. Окни, Одеська область ",
+        "contact": "(099) 606-85-02",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=47.540279,29.458196"
+      },
+      {
+        "order": 6,
+        "title": "Автомагазин GARAGE",
+        "_id": 44869,
+        "city": "Одеса",
+        "address": "вулиця Соборна, 13б, смт. Великодолинське, Одеська область ",
+        "contact": "(093) 252-24-04",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=46.343217,30.582736"
+      },
+      {
+        "order": 7,
+        "title": "СТО+Автомагазин\nФОП Кульчицкий О.П.",
+        "_id": 352,
+        "city": "Одеса",
+        "address": "Об'їзна дорога, 148а, Одеса ",
+        "contact": "(098) 328-3747",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=46.55845,30.70452"
+      },
+      {
+        "order": 8,
+        "title": "Авторинок СВЕТОФОР",
+        "_id": 2973,
+        "city": "Одеса",
+        "address": "Ринок Куяльник, кон. №791, Одеса",
+        "contact": "(093) 681-56-29",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=46.552271,30.725174"
+      },
+      {
+        "order": 9,
+        "title": "Автомагазин 58 MILE",
+        "_id": 43524,
+        "city": "Одеса",
+        "address": "пр-т Небесної Сотні 75\\1, Одеса",
+        "contact": "(073) 000-00-58",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=46.404086,30.709726"
+      },
+      {
+        "order": 10,
+        "title": "Автомагазин Авто маг",
+        "_id": 41887,
+        "city": "Одеса",
+        "address": "вулиця Спортивна 1в, смт. Нова Долина, Одеська область",
+        "contact": "(097) 255-90-76",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=46.397585,30.591036"
+      },
+      {
+        "order": 15,
+        "title": "Автомагазин \"ЯН\"",
+        "_id": 11605,
+        "city": "Одеса",
+        "address": "пр-т Перемоги, 1А, Подільськ, Одеська область",
+        "contact": "(063) 053-06-26                (099) 383-59-62",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=47.733719,29.541535"
+      },
+      {
+        "order": 16,
+        "title": "Авторинок Odessa.KIA.Hyundai",
+        "_id": 25206,
+        "city": "Одеса",
+        "address": "Ринок \"Перемога\" 1-й ряд, №8, пр-т Небесної Сотні, 34, Одеса",
+        "contact": "(097) 661-16-81                (067) 648-66-88",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=46.388753,30.704742"
+      },
+            {
+        "order": 60,
+        "title": "\"За Рулем\"",
+        "_id": 9519,
+        "city": "Одеса",
+        "address": "вулиця Портова 12, Білгород-Дністровский,  Одеська область  ",
+        "contact": "(097) 147-56-75",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=46.187688,30.347212"
+      },
+      {
+        "order": 62,
+        "title": "\"АВТОСВІТ\"",
+        "_id": 2420,
+        "city": "Одеса",
+        "address": "вулиця Аврамівська, буд № 12, Ізмаїл, Одеська область",
+        "contact": "(067) 780-54-87",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=45.334699,0,28.836602"
+      },
+      {
+        "order": 66,
+        "title": "Магазин \"SHOP PARTS\"",
+        "_id": 13763,
+        "city": "Одеса",
+        "address": "вулиця Хіміків, 1/3б, Южне, Одеська область",
+        "contact": "(063) 506-15-32",
+        "geolink": "https://maps.app.goo.gl/4pBKSzNWuckxJYYdA"
+      },
+      {
+        "order": 67,
+        "title": "Магазин \"АВТО СВІТ\"",
+        "_id": 28010,
+        "city": "Одеса",
+        "address": "вулиця 28 червня 88, Арциз, Одеська область",
+        "contact": "(067) 301-79-02",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=NaN,NaN"
+      }
+    ],
+    "_id": 1054107610771089200
+  },
+  {
+    "title": "Рівненська область",
+    "cp": "Рівне",
+    "items": [
+      {
+        "order": 48,
+        "title": "Автомагазин \"SkadAuto\"",
+        "_id": 30760,
+        "city": "Рівне",
+        "address": "провулок Робітничій, 1, Рівне",
+        "contact": "(097) 881-87-56",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=50.64430948945497,26.23281773578288"
+      },
+      {
+        "order": 49,
+        "title": "Автомагазин \"Автозапчастини\"",
+        "_id": 44857,
+        "city": "Рівне",
+        "address": "вулиця Біла, 5А, Рівне",
+        "contact": "(096) 651-26-87",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=50.63115569850774,26.23263284736616"
+      }
+    ],
+    "_id": 1056111010741085000
+  },
+  {
+    "title": "Харківська область",
+    "cp": "Харків",
+    "items": [
+      {
+        "order": 33,
+        "title": "Автомагазин",
+        "_id": 11626,
+        "city": "Харків",
+        "address": "вулиця П'ятихатська, 5, Харків",
+        "contact": "(096) 935-16-46",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.934736,36.42289"
+      },
+      {
+        "order": 34,
+        "title": "Автомагазин",
+        "_id": 24097,
+        "city": "Харків",
+        "address": "Авторинок Лоск 2/34,1, Харків",
+        "contact": "(097) 165-59-38",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.970578,36.126771"
+      },
+      {
+        "order": 92,
+        "title": "Автомагазин",
+        "_id": 28030,
+        "city": "Харків",
+        "address": "вулиця Ахієзерів, 40, Харків",
+        "contact": "(095) 253-03-97",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.984178,36.30673100"
+      }
+    ],
+    "_id": 1061107210881082100
+  },
+  {
+    "title": "Хмельницька область",
+    "cp": "Хмельницький",
+    "items": [
+      {
+        "order": 51,
+        "title": "Автомагазин AutoBum",
+        "_id": 16686,
+        "city": "Хмельницький",
+        "address": "вулиця Трудова, 1, Хмельницький",
+        "contact": "(097) 013-50-90",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.430120338561665,27.026495291859934"
+      },
+      {
+        "order": 52,
+        "title": "Автомагазин ІнтерАвто",
+        "_id": 31310,
+        "city": "Хмельницький",
+        "address": "вулиця Бандери, 57/3, Хмельницький",
+        "contact": "(096) 953-87-88",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.44699330364472,26.99242060966689"
+      },
+      {
+        "order": 56,
+        "title": "Автомагазин AUTO PULSE",
+        "_id": 37658,
+        "city": "Хмельницький",
+        "address": "Вінницьке шосе, 1, Хмельницький",
+        "contact": "(096) 948-23-65",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.43186684384615,27.021670548461554"
+      }
+    ],
+    "_id": 1061108410771083100
+  },
+  {
+    "title": "Черкаська область",
+    "cp": "Черкаси",
+    "items": [
+      {
+        "order": 18,
+        "title": "Автомагазин \"Мотор\"",
+        "_id": 3174,
+        "city": "Черкаси",
+        "address": "вулиця Смілянська, 141, Черкаси",
+        "contact": "(067) 470-73-18 \n(063) 579-85-77",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.414613,32.030748"
+      },
+      {
+        "order": 19,
+        "title": "Автомагазин \"Lupyna сompany\"",
+        "_id": 2708,
+        "city": "Черкаси",
+        "address": "вулиця Благовісна, 331, Черкаси",
+        "contact": "(073) 551-13-80\n(067) 551-13-80",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.432651,32.071096"
+      },
+      {
+        "order": 93,
+        "title": "Автомагазин \"AutoHelp\"",
+        "_id": 38170,
+        "city": "Черкаси",
+        "address": "вулиця Обухова, 20, Золотоноша, Черкаська область",
+        "contact": "(063) 076-56-77",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.67304000,32.03949000"
+      },
+      {
+        "order": 94,
+        "title": "Автомагазин",
+        "_id": 38631,
+        "city": "Черкаси",
+        "address": "вулиця Академіка Корольова, 7, Черкаси",
+        "contact": "(050) 447-67-85",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.44256000,32.02000000"
+      },
+      {
+        "order": 95,
+        "title": "Автомагазин",
+        "_id": 38447,
+        "city": "Черкаси",
+        "address": "вулиця Дахнівська, 35, Черкаси",
+        "contact": "(063) 450-85-01",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=49.47098000,32.01361000"
+      }
+    ],
+    "_id": 1063107710881082100
+  },
+  {
+    "title": "Чернігівська область",
+    "cp": "Чернігів",
+    "items": [
+       {
+        "order": 96,
+        "title": "Автомагазин \"RioLife\"",
+        "_id": 41728,
+        "city": "Черкаси",
+        "address": "вулиця Шевченко, 18, Новгород-Сівіерський, Чернігівська область",
+        "contact": "(066) 846-08-11",
+        "geolink": "https://www.google.com/maps/search/?api=1&query=51.99778,33.26765"
+      }
+    ],
+    "_id": 1063107710881085000
+  }
+]
